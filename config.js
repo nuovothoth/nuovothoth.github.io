@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://nuovothoth.github.io',
   pathPrefix: '/',
-  title: 'Scarlet's Blog',
+  title: 'Scarlet\'s Blog',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
