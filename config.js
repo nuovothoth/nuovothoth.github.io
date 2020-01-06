@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://nuovothoth.github.io',
   pathPrefix: '/',
   title: 'Scarlet\'s Blog',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Don\'t programming only, Do art to make human being happy.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Scarlet Da-Hae Sung',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Don\'t programming only, Do art to make human being happy.',
     contacts: {
       email: '',
       facebook: '#',
