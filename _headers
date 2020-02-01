@@ -118,15 +118,6 @@
   Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
   Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
-/posts/perfecting-the-art-of-perfection
-  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
-  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
-  Link: </app-7f92feee4a7481d5b2d4.js>; rel=preload; as=script
-  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
-  Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
 /pages/contacts/
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
@@ -137,6 +128,15 @@
   Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-30c9f68011554c8c6d0c.js>; rel=preload; as=script
 /posts/the-birth-of-movable-type
+  Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-8e6f024872c0d48ae324.js>; rel=preload; as=script
+  Link: </app-7f92feee4a7481d5b2d4.js>; rel=preload; as=script
+  Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
+  Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5f449cae0bb2fa9985ef.js>; rel=preload; as=script
+/category/android/perfecting-the-art-of-perfection
   Link: </webpack-runtime-944c45a84cb1f62b4cf0.js>; rel=preload; as=script
   Link: </styles-890745447a44eb4c0eb2.js>; rel=preload; as=script
   Link: </commons-b38621d794d4edec0234.js>; rel=preload; as=script
